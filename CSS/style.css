@@ -1,0 +1,38 @@
+body{
+    background-color: black;
+}
+
+.card{
+    width:400px;
+    height:200px;
+    box-sizing: border-box;
+    padding: 1x 20px;
+    background: url(../acess/backgorund.png) no-repeat;
+    background-size: cover;
+    margin:auto;
+    margin-top: 10%;
+    
+}
+
+a{
+    text-decoration: none;
+    color: violet
+}
+
+.nome{
+    color: brown;
+}
+.Instagram{
+
+    list-style-image: url(../acess/Insta.png);
+}
+
+.Youtube{
+
+    list-style-image:  url(../acess/Youtube.png);
+}
+
+.Twitter{
+     
+    list-style-image: url(../acess/Twitter.png);
+}
